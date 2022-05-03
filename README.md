@@ -2,7 +2,7 @@
 
 ## Link to Deployed Assets
 https://racheldmarron.github.io/jate-the-pwa/ <br>
-HEROKU GOES HERE 
+https://intense-lowlands-60151.herokuapp.com/
 
 ## Overview 
 Using PWA criteria and IndexedDB API, this application is a text editor that runs in the browser. The application is also able to function offline.
@@ -43,23 +43,24 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-## How This Was Achieved
+## Installation
+This application can be run using the deployed Heroku link. To run on your computer locally, follow these steps below:
 <ul>
-<li>Created and index.js file and pulled the inquirer through node using an npm init and npm install </li>
-<li> Added a generatemarkdown file where the formatting of the README file lives</li>
-<li>When a user uses node index.js on the command line, they are walked through generated questions they can answer to create their readme file</li>
-<li>Using the writetofile and init functions, a readme generator is created once the user answers all the questions on the command line</li>
+<li>Clone this repository to your computer</li>
+<li>Run "npm install" in the command line of your terminal</li>
+<li>Run "npm start" to start the application's backend</li>
+<li>Go to http//:localhost:3001 to use</li>
 </ul>
 
 ## Visual Representations
 ## Images 
 
-![](./assets/images/readme-generator-ref-1.png)
-![](./assets/images/readme-generator-ref-2.png)
+![](./assets/images/text-editor-ref-1.png) - PENDING 
+![](./assets/images/text-editor-ref-2.png) - PENDING 
 
 ## Contributors
 
-- N/A
+- Thank you to my tutor Chris Baird for helping me work through some file structure and install errors
 
 ## License
 
