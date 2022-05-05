@@ -5,7 +5,7 @@ https://racheldmarron.github.io/jate-the-pwa/ <br>
 https://intense-lowlands-60151.herokuapp.com/
 
 ## Overview 
-Using PWA criteria and IndexedDB API, this application is a text editor that runs in the browser. The application is also able to function offline.
+Using PWA criteria and IndexedDB API, this application is a text editor that runs in the browser. The application is also able to function offline by installing it to your local computer.
 
 ## User Story
 ```md
@@ -55,8 +55,9 @@ This application can be run using the deployed Heroku link. To run on your compu
 ## Visual Representations
 ## Images 
 
-![](./assets/images/text-editor-ref-1.png) - PENDING 
-![](./assets/images/text-editor-ref-2.png) - PENDING 
+![](./assets/text-editor-ref-1.png)
+![](./assets/text-editor-ref-2.png)
+![](./assets/text-editor-ref-3.png)
 
 ## Contributors
 
